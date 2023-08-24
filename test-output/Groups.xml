@@ -1,0 +1,16 @@
+<suite name='suite1'>
+   <test name='test1'>
+	   
+	   <groups>
+		   <run>
+		
+			   <exclude name='odd'></exclude>
+
+		   </run>
+	   </groups>
+	   
+	   <classes>
+		   <class name='annotation_class.Groups_Demo'></class>
+	   </classes>
+   </test>
+</suite>

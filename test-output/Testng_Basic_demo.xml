@@ -1,0 +1,14 @@
+<suite name='suite1'>
+	<test name='test1'>
+		<classes>
+			//here we can execut multile classes one by one// 
+			<class name='TestNGbasics.Basic_print'></class>
+			<class name='TestNGbasics.Depends_on_Method'></class>
+			<class name='TestNGbasics.Description_Demo'></class>
+			<class name='TestNGbasics.Priority_Basic'></class>
+			<class name='TestNGbasics.TestNG_Basics'></class>
+			<class name='annotation_class.TestNG_Annotaion'></class>
+		</classes>
+	</test>
+	
+</suite>
